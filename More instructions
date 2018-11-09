@@ -10,4 +10,8 @@ When anyone wants to do something, he must create a branch.
 	This branch can be committed as a branch "under" another branch.
 		This is done when the radio button is chosen so that this is not a branch under master.
 The real problem is finding the text to view and to edit. Remember, this is found under the branches.
+	Use the drop-down menu of "Find or create a branch" to locate the branch you want.
+	Choose the branch you want.
+	The "View" is tempting, but that's just a view of the pull request, not of the file.
+	You'll have to choose the files whose names are listed.
 	
