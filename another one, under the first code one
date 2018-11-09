@@ -1,3 +1,14 @@
+Well, well, well. Getting the hang of things. Here's how it works.
+In a repository, the first or main worker writes a program.
+	This has a readme.
+	It must be committed.
+	This becomes the "master" that will be the end of the whole project.
+When anyone wants to do something, he must create a branch.
+	This is done by "add file."
+	Or by that pull-down on the left, called
+
+
+
 #import tkinter # That works, if needed.
 print("start")
 
