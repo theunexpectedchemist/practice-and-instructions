@@ -1,5 +1,3 @@
-print("Start")
-
 def shifttoright(thestring, whattoshift):
 	size = len(thestring)
 	last = size - 1 # Last index, for Python.
@@ -54,6 +52,3 @@ print(str1)
 print(shifttoright(str1, whattoshifttoright))
 print(str1)
 print(shifttoleft(str1, whattoshifttoright))
-
-
-print("End")
