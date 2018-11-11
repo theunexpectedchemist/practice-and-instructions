@@ -27,4 +27,5 @@ The "drop down" selector gets you right to the branch, from which you can select
 The "Branch" clickable word gets you to a place where you can have an "overview" of the branch.
 This place enables you to delete the branch entirely. Useful.
 Notice that from this place, you can also select whichever file you want as well.
-	
+
+You can't open a closed pull request until you edit something and make a commit first.
