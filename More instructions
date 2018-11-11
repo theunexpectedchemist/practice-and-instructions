@@ -21,4 +21,10 @@ Then you'll be able to compare the version with the previous one.
 
 Merging it means that you have to open a pull request first.
 After you do, you can go to the bottom of the page and merge it with the master. That will put all the files into the master.
+
+There's a difference between the "Drop down" branch selector and the "Branch" clickable word.
+The "drop down" selector gets you right to the branch, from which you can select the files you want. (You can't delete the branch here.)
+The "Branch" clickable word gets you to a place where you can have an "overview" of the branch.
+This place enables you to delete the branch entirely. Useful.
+Notice that from this place, you can also select whichever file you want as well.
 	
