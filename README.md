@@ -1,2 +1,2 @@
 # python-string-pushing
-Trying this out, testing, for some ways to move characters to the ends of strings
+Just doing some practice, trying to write some instructions.
