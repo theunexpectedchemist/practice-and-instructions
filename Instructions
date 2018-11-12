@@ -5,7 +5,10 @@ That repository will have branches. If no branches were ever created for it, the
 That "master" branch is always the topmost one.
 If you wanted a readme file, you'll find that as a file in the lower (and usually more active) area.
 You can (and probably will) add files to this in some way.
-To do so, you can 
+To do so, you can click on "Add new file" on the right of the active area. However, this will add the file to the Master branch only.
+What would become more useful would be to put the file into a different branch, so that any work on the different branch will
+not affect what was put into the Master branch (until this is desired).
+To create a new branch, the easiest way would be to click on the 
 	This has a readme.
 	It must be committed.
 	This becomes the "master" that will be the end of the whole project.
