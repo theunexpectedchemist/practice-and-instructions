@@ -22,7 +22,11 @@ it not only saves the file, it throws in a record of what was changed since the 
 In this way, you can keep adding to the files and adding more files.
 In order to delete files, you must first open them. Before clicking on the pen icon that edits the text, you can click on the
 garbage can "delete" icon right near it. That will delete your file.
-In order to see the differences between the file text as it is now and as it was before editing, you'll have to go to that "overview"
+In order to see the differences between the file text as it is now and as it was before editing, you'll have to click on the "Update"
+text to the right of the text that opens the file for editing.
+Blue text is text added since the last time, and red text is text that got deleted since the last time.
+(You might notice that you can add comments to the times that there were edits, which is useful if you want to remember or show the
+reason that the edits were made. It seems simple but I have not done this yet.)
 mentioned above.
 
 This branch can be committed as a branch "under" another branch.
