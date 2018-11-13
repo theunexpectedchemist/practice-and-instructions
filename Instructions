@@ -50,6 +50,7 @@ now has a "Open" to the right of the branch listed in the active area. Click on 
 This will give a screen where the choice of "Merge pull request" is allowed. Choosing that will merge the brance into the Master.
 The merge will a) transfer all changes to files in the branch will show up in the corresponding files in the Master branch and
 b) close the pull request.
+Notice that after you merge the branch, there is a suggestion that the branch be closed.
 Notice that you can't open a pull request unless something new is done somewhere. This can be the creation of a file or editing
 any file and committing the changes.
 It's also possible to put branches under other branches. I haven't done that yet.
@@ -57,19 +58,3 @@ It's also possible to put branches under other branches. I haven't done that yet
 
 This branch can be committed as a branch "under" another branch.
 		This is done when the radio button is chosen so that this is not a branch under master.
-The real problem is finding the text to view and to edit. Remember, this is found under the branches.
-	Use the drop-down menu of "Find or create a branch" to locate the branch you want.
-	Choose the branch you want.
-	The "View" is tempting, but that's just a view of the pull request, not of the file.
-	You'll have to choose the files whose names are listed.
-Random: You don't need to have an open pull request to edit the file.
-Now I'll try merging this thing.
-To compare two versions, open the branch and don't click on the part that you want to change, but the "Update" part.
-Then you'll be able to compare the version with the previous one.
-
-Merging it means that you have to open a pull request first.
-After you do, you can go to the bottom of the page and merge it with the master. That will put all the files into the master.
-
-
-
-You can't open a closed pull request until you edit something and make a commit first.
