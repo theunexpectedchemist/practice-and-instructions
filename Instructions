@@ -32,7 +32,15 @@ Very important: There is blue text that denotes the repository name and the file
 ways to get back to places above, either to the repository area or the file area, from wherever you are (such as the "overview" area).
 (So far I use it as an "emergency get me out of this place" button.)
 A branch can have a "pull request." That means that the branch comes with a sort of request that it be modified.
-I don't know what else the "pull request" is for.
+I don't know what else the "pull request" is for otherwise.
+When creating a new branch (using the pull-down menu button), the first thing that happens is that the branch gains all the files that
+were in the master branch.
+You can change the files in the new branch, but this will not change the identical file in the master branch.
+However, if the branch is "merged," then the changes to the branch will be transferred to the master branch.
+(Note how convenient this is: You start with a master, then immediately go to a branch. This will allow work on the file, but not
+lose anything on the original file in master. Only once the new work on the branch is concluded will the original file be modified
+by the merge.)
+
 
 This branch can be committed as a branch "under" another branch.
 		This is done when the radio button is chosen so that this is not a branch under master.
