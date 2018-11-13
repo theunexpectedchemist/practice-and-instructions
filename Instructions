@@ -42,8 +42,8 @@ lose anything on the original file in master. Only once the new work on the bran
 by the merge.)
 In order to merge the branch, you'll have to first create a pull request.
 To merge a branch easily, first get into the "overview" of the branches (by clicking on "Branches" above the active area).
-Notice that to the right of the active area, there is a button (for each branch) called "Create new pull request."
-Click on this button.
+Notice that to the right of the active area, there is a button (for each branch) called "New pull request."
+Click on this button. You will then see a new screen that allows a pull request to be made. Make this pull request.
 
 This branch can be committed as a branch "under" another branch.
 		This is done when the radio button is chosen so that this is not a branch under master.
