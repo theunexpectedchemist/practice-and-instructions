@@ -8,15 +8,20 @@ You can (and probably will) add files to this in some way.
 To do so, you can click on "Add new file" on the right of the active area. However, this will add the file to the Master branch only.
 What would become more useful would be to put the file into a different branch, so that any work on the different branch will
 not affect what was put into the Master branch (until this is desired).
-To create a new branch, the easiest way would be to click on the 
-	This has a readme.
-	It must be committed.
-	This becomes the "master" that will be the end of the whole project.
-When anyone wants to do something, he must create a branch.
-	This is done by "add file."
-	Or by that pull-down on the left, called "Find or create a branch."
-	The branch must be committed and should have a pull request.
-	This branch can be committed as a branch "under" another branch.
+The easiest way to create a new branch is to click on the Branch: pull down menu on the left (and slightly above) the active area.
+This pull down menu is also the easiest way to navigate immediately to the desired branch.
+Another way to navigate to the desired branch would be to click on the "Branch" text above the active area.
+However, this gets you to an "overview" of all the branches. It is very important to be able to do this, because this overview is
+the best way to delete an entire branch. (Just click on "delete" on the right.)
+You can easily get to the branch from the "overview" part by clicking on the correct branch.
+But back to adding files: When in the correct branch (which might be the Master), click the button that reads "Add new file."
+This will open an editor (just like the one that we're in right now), where you can add text.
+After adding whatever text you want to the file, you will have to "commit" that file. That's very similar to saving the file, but
+it not only saves the file, it throws in a record of what was changed since the last time there was a "commit."
+In this way, you can keep adding to the files and adding more files.
+(I don't know how to delete files yet.)
+
+This branch can be committed as a branch "under" another branch.
 		This is done when the radio button is chosen so that this is not a branch under master.
 The real problem is finding the text to view and to edit. Remember, this is found under the branches.
 	Use the drop-down menu of "Find or create a branch" to locate the branch you want.
