@@ -30,6 +30,9 @@ reason that the edits were made. It seems simple but I have not done this yet.)
 mentioned above.
 Very important: There is blue text that denotes the repository name and the file you are under. Clicking on these are very important
 ways to get back to places above, either to the repository area or the file area, from wherever you are (such as the "overview" area).
+(So far I use it as an "emergency get me out of this place" button.)
+A branch can have a "pull request." That means that the branch comes with a sort of request that it be modified.
+I don't know what else the "pull request" is for.
 
 This branch can be committed as a branch "under" another branch.
 		This is done when the radio button is chosen so that this is not a branch under master.
